@@ -12,8 +12,8 @@ def is_prime(num):
     # if no divisors found, it is prime
     return True
 
-# Example 
-num = 7
+# example 
+num = 8
 
 if is_prime(num):
     print(num, "is a prime number")

@@ -1,0 +1,10 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+
+.virtual_documents/
+
+anaconda_projects/
